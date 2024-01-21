@@ -38,7 +38,7 @@ while True:
 
 	elif register_user == 'вход':
 		login_function(input('login:'),input('password:'))
-		break
+		
 
 
 	elif register_user == 'регистрация':
